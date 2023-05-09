@@ -1,0 +1,8 @@
+#footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    color: white;
+    background: black;
+    margin: 5px;
+}
